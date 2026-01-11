@@ -1,0 +1,17 @@
+# Signal Processing & Audio Analysis
+librosa>=0.9.0
+numpy>=1.19.0
+scipy>=1.7.0
+matplotlib>=3.3.0
+
+# Speech Processing
+pyttsx3>=2.90  # Text-to-speech
+soundfile>=0.10.0  # Audio I/O
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional
+# scikit-learn>=1.0.0  # ML for audio
+# audioread>=2.1.0  # Additional codecs

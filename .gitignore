@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+*-checkpoint.ipynb
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio Files
+*.wav
+*.mp3
+*.flac
+*.ogg
+audio/
+sounds/
+
+# Data
+data/
+*.npy
+
+# Large files
+*.zip
+*.tar.gz
