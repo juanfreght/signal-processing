@@ -606,7 +606,7 @@ Through these projects, I have demonstrated proficiency in:
 
 **Uzair Mubasher** - BSAI Graduate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/uzair-mubasher-208ba5164)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/uzair-bin-mubasher-208ba5164)
 [![Email](https://img.shields.io/badge/Email-uzairmubasher5@gmail.com-red)](mailto:uzairmubasher5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-uzi--gpu-black)](https://github.com/uzi-gpu)
 
@@ -627,3 +627,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If you found this repository helpful, please consider giving it a star!**
+
